@@ -195,9 +195,9 @@ section {
 }
 
 .header .logo img {
-  max-height: 110px;
+  max-height: 80px;
   margin-right: 6px;
-  margin-top: 25px;
+  margin-top: 2px;;
 }
 
 .header .logo span {
